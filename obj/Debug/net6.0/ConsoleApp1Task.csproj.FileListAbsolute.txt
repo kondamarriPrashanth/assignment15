@@ -1,0 +1,14 @@
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\bin\Debug\net6.0\ConsoleApp1Task.exe
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\bin\Debug\net6.0\ConsoleApp1Task.deps.json
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\bin\Debug\net6.0\ConsoleApp1Task.runtimeconfig.json
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\bin\Debug\net6.0\ConsoleApp1Task.dll
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\bin\Debug\net6.0\ConsoleApp1Task.pdb
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\obj\Debug\net6.0\ConsoleApp1Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\obj\Debug\net6.0\ConsoleApp1Task.AssemblyInfoInputs.cache
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\obj\Debug\net6.0\ConsoleApp1Task.AssemblyInfo.cs
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\obj\Debug\net6.0\ConsoleApp1Task.csproj.CoreCompileInputs.cache
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\obj\Debug\net6.0\ConsoleApp1Task.dll
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\obj\Debug\net6.0\refint\ConsoleApp1Task.dll
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\obj\Debug\net6.0\ConsoleApp1Task.pdb
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\obj\Debug\net6.0\ConsoleApp1Task.genruntimeconfig.cache
+E:\MPHASIS\PHASE 4\15feb\ConsoleApp1Task\ConsoleApp1Task\obj\Debug\net6.0\ref\ConsoleApp1Task.dll
